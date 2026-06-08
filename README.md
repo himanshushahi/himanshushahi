@@ -111,6 +111,6 @@ Full-featured online shopping platform with admin dashboard.
 
 ### 💻 "Code. Build. Learn. Repeat."
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=himanshushahi\&color=blueviolet)
 
 </div>
