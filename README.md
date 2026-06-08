@@ -75,11 +75,11 @@ Full-featured online shopping platform with admin dashboard.
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=himanshushahi\&show_icons=true\&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME\&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=himanshushahi\&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshushahi\&layout=compact\&theme=tokyonight)
 
 </div>
 
@@ -87,23 +87,23 @@ Full-featured online shopping platform with admin dashboard.
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME\&theme=tokyonight\&no-frame=true\&row=1)
+![](https://github-profile-trophy.vercel.app/?username=himanshushahi\&theme=tokyonight\&no-frame=true\&row=1)
 
 ---
 
 ## 📈 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&theme=tokyo-night)
+![](https://github-readme-activity-graph.vercel.app/graph?username=himanshushahi\&theme=tokyo-night)
 
 ---
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](www.linkedin.com/in/himanshu-kumar-shahi-1b6817259)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel)](YOUR_PORTFOLIO)
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail)](mailto:himanshushahi0478@gmail.com)
 
 ---
 
